@@ -22,7 +22,7 @@
     </div> 
     <hr>
     <p>
-        <h2 style="text-align: left">VETERINARIA EL BEAGLE</h2>
+        <h2 style="text-align: left">VETERINARIA EL BEAGLE FELIZ</h2>
     </p>
     <img src="logo.png" style="align:center">
 </body>
